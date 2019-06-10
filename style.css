@@ -1,3 +1,7 @@
 body {
   max-width: 700px; /* Максимальная ширина страницы в пикселах */ 
- }
+  font-family: 'Open Sans', sans-serif;
+}
+h1 {
+  font-family: 'Caveat', cursive;
+}
